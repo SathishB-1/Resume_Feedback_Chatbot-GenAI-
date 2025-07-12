@@ -82,3 +82,7 @@ Author:
 Developed by SATHISH B
 
 GitHub:https://github.com/SathishB-1/Resume_Feedback_Chatbot
+
+## User  Interface
+
+![img Alt](https://github.com/SathishB-1/Resume_Feedback_Chatbot-GenAI-/blob/48b93da5aa05561a6412e231f439184a4ddc2529/Screenshot%202025-07-11%20214242.png)
